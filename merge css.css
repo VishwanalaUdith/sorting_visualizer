@@ -1,0 +1,87 @@
+.container{
+    padding-top: 80px;
+    display: flex;
+  }
+  .cell{
+    font-size: 60px;
+  }
+  table{
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid red; 
+  }
+  .c2left{
+    position: absolute;
+    left:100px;
+    top:150px;
+  }
+  .c2right{
+    position: absolute;
+    right: 100px;
+    top: 150px;
+  }
+  .c3left{
+    position: absolute;
+    left: 50px;
+    top: 325px;
+  }
+  .c3mid1{
+    position: absolute;
+    left: 400px;
+    top:325px;
+  }
+  .c3mid2{
+    position: absolute;
+    right:400px;
+    top:325px;
+  }
+  .c3right{
+    position: absolute;
+    right: 50px;
+    top:325px;
+  }
+  .c41{
+    position: absolute;
+    left:20px;
+    top:500px;
+  }
+  .c42{
+    position: absolute;
+    left:180px;
+    top:500px;
+  }
+  .c43{
+    position: absolute;
+    left:350px;
+    top:500px;
+  }
+  .c44{
+    position: absolute;
+    left:520px;
+    top:500px;
+  }
+  .c45{
+    position: absolute;
+    right:520px;
+    top:500px;
+  }
+  .c46{
+    position: absolute;
+    right:350px;
+    top:500px;
+  }
+  .c47{
+    position: absolute;
+    right:180px;
+    top:500px;
+  }
+  .c48{
+    position: absolute;
+    right:20px;
+    top:500px;
+  }
